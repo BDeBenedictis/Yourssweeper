@@ -1,0 +1,31 @@
+#boardContainer{
+  min-width: 80%;
+  min-height: 80%;
+  text-align: center;
+  margin: 2em 2em 6em 2em;
+}
+
+#board{
+  margin: auto;
+}
+
+.boardBody{
+  /* margin: auto; */
+}
+
+.boardRow{
+  /* min-height: 10vh; */
+}
+
+.boardSpace{
+  font-family: 'Francois One', sans-serif;
+  /* font-family: 'Amatic SC', cursive; */
+  font-size: 2em;
+  text-align: center;
+  border: solid 1px;
+  width: 10vh;
+  height: 10vh;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px;
+  /* text-shadow: 5px 5px 10px; */
+}

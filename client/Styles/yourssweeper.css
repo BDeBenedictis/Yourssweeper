@@ -1,0 +1,33 @@
+h6{
+  font-family: 'Francois One', sans-serif;
+  font-size: 1em;
+  text-align: center;
+}
+
+button{
+  font-family: 'Francois One', sans-serif;
+  font-size: 1em;
+  border: solid 1px;
+  width: 50%;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px;
+  /* text-shadow: 1px 1px 10px; */
+}
+
+#title{
+  font-family: 'Francois One', sans-serif;
+  font-size: 5em;
+  text-align: center;
+}
+
+.titleContainer{
+  border: solid 1px;
+  box-shadow: 5px 5px 10px;
+}
+
+.buttonContainer{
+  /* align-items: center; */
+  margin: 6em;
+}
